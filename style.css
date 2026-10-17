@@ -15,3 +15,7 @@
 #reset{background:#30496d;color:#f0f6ff;border:1px solid #7791b4;position:relative;z-index:1;pointer-events:auto;cursor:pointer}
 #reset:hover{background:#3e5c85}
 .reset-status{padding:10px 12px;border-radius:9px;background:#163b56;color:#c2ecff;font-size:.9rem}
+/* Branding font only */
+.eyebrow {
+    font-family: "Times New Roman", Times, serif;
+}
